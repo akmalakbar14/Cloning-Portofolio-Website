@@ -8,9 +8,9 @@ Selamat datang di proyek pertama saya! 🎉 Ini adalah hasil kloning dari desain
 - 📄 Struktur HTML yang rapi dan mudah dibaca  
 
 ## 📷 Screenshot
-![Preview](E:\Project HTML & CSS\Profil-Pribadi-Sederhana\images\preview-1.png)
-![Preview](E:\Project HTML & CSS\Profil-Pribadi-Sederhana\images\preview-2.png)
-![Preview](E:\Project HTML & CSS\Profil-Pribadi-Sederhana\images\preview-3.png)
+![Preview](images\preview-1.png)
+![Preview](images\preview-2.png)
+![Preview](images\preview-3.png)
 
 ## 🔧 Teknologi yang Digunakan
 - HTML  
