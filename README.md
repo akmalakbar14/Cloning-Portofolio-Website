@@ -7,11 +7,6 @@ Selamat datang di proyek pertama saya! 🎉 Ini adalah hasil kloning dari desain
 - 🎨 Styling dengan CSS untuk tampilan yang menarik  
 - 📄 Struktur HTML yang rapi dan mudah dibaca  
 
-## 📷 Screenshot
-![Preview](images\preview-1.png)
-![Preview](images\preview-2.png)
-![Preview](images\preview-3.png)
-
 ## 🔧 Teknologi yang Digunakan
 - HTML  
 - CSS  
